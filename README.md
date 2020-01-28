@@ -3,7 +3,7 @@
 see the original URL: 
 https://gist.github.com/traviswaelbro/fefc37b1ad36196e6b92cbb8cba8baa6
 
-## split_file_in_folder:
+## split_file_in_folder.py:
 
 Split all CSV files in a source path into multiple CSVs of equal numbers of records, except the last file.
 
