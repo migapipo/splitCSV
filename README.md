@@ -1,7 +1,5 @@
 # splitCSV
 
-see the original URL: 
-https://gist.github.com/traviswaelbro/fefc37b1ad36196e6b92cbb8cba8baa6
 
 ## split_file_in_folder.py
 
@@ -23,3 +21,9 @@ Split files follow a sequential naming convention like so: `{file_number}_0.csv`
         Number of rows per file (header row is excluded from the row count).
         
     :return {NoneType}:
+
+
+## resource website 
+
+see the original URL: 
+https://gist.github.com/traviswaelbro/fefc37b1ad36196e6b92cbb8cba8baa6
